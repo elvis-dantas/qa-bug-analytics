@@ -8,7 +8,6 @@ análise exploratória, Machine Learning e dashboard interativo.
 - Pandas
 - Seaborn
 - Scikit-learn
-- SQL
 - Streamlit
 
 
